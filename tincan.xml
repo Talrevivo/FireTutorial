@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6gWU3C7ZCzX_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">לומדת כיבוי אש</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://6gWU3C7ZCzX_course_id/6lteeE215zb" type="http://adlnet.gov/expapi/activities/objective">
+			<name lang="und">לומדת כיבוי אש</name>
+			<description lang="und">לומדת כיבוי אש</description>
+		</activity>
+		<activity id="http://6gWU3C7ZCzX_course_id/63vn3VEveCP" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6gWU3C7ZCzX_course_id/5ad4A9BG0QC" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6gWU3C7ZCzX_course_id/5svIR9wZCAa" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6gWU3C7ZCzX_course_id/5xEYxYpTXv0" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6gWU3C7ZCzX_course_id/6JNiMwOTzc8" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6gWU3C7ZCzX_course_id/5nu4MWeLPuN" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6gWU3C7ZCzX_course_id/66lm77gtVCR" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6gWU3C7ZCzX_course_id/64g74K3V3Sn" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6gWU3C7ZCzX_course_id/5VeqQmAovfD" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6gWU3C7ZCzX_course_id/6lPwAoN0pZj" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6gWU3C7ZCzX_course_id/6N8ayRnjNS9" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6gWU3C7ZCzX_course_id/5cwJRkqb1BG" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6gWU3C7ZCzX_course_id/5yEHtTzRisJ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6gWU3C7ZCzX_course_id/5VRVc7N3NnY" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+		</activity>
+		<activity id="http://6gWU3C7ZCzX_course_id/5VRVc7N3NnY/5a5I5R4knnY" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5dNxeaCzdUI</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5y1I6pbTm4T</id>
+					<description lang="und">Group
+ 1</description>
+				</component>
+				<component>
+					<id>choice_5kl6L2lLPGM</id>
+					<description lang="und">Group
+ 2</description>
+				</component>
+				<component>
+					<id>choice_5dNxeaCzdUI</id>
+					<description lang="und">Group
+ 3</description>
+				</component>
+				<component>
+					<id>choice_5vc1BfCrvUU</id>
+					<description lang="und">Group
+ 4</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6gWU3C7ZCzX_course_id/6LuxMgbPsBK" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+		</activity>
+		<activity id="http://6gWU3C7ZCzX_course_id/6LuxMgbPsBK/5ZHbFMA2mRS" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5xRHJakDmqa</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_67MYpljHjL4</id>
+					<description lang="und">Group
+ 1</description>
+				</component>
+				<component>
+					<id>choice_6DPWDSoV9ha</id>
+					<description lang="und">Group
+ 2</description>
+				</component>
+				<component>
+					<id>choice_5xRHJakDmqa</id>
+					<description lang="und">Group
+ 3</description>
+				</component>
+				<component>
+					<id>choice_6feFfL3pP7p</id>
+					<description lang="und">Group
+ 4</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6gWU3C7ZCzX_course_id/6EDzAWD3mXi" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">לומדת רענון - פריקה אלקטרוסטטית </name>
+			<description lang="und">לומדת רענון - פריקה אלקטרוסטטית </description>
+		</activity>
+	</activities>
+</tincan>
